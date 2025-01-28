@@ -7,7 +7,7 @@ import '../models/pie_data.dart';
 import '../styles/styles.dart';
 import '../widgets/category_box.dart';
 import '../widgets/expense_widget.dart';
-
+//this is main class
 class StaticsByCategory extends StatefulWidget {
   const StaticsByCategory({Key? key}) : super(key: key);
 

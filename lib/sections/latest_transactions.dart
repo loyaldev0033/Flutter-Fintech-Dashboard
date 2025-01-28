@@ -7,7 +7,7 @@ import '../responsive.dart';
 import '../styles/styles.dart';
 import '../widgets/category_box.dart';
 import '../widgets/currency_text.dart';
-
+//This is main class
 class LatestTransactions extends StatelessWidget {
   LatestTransactions({Key? key}) : super(key: key);
   final ScrollController _scrollController = ScrollController();
